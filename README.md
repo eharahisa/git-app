@@ -22,4 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-#AAASS
+# AAASS
+## how to use git revert
