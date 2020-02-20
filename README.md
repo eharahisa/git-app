@@ -22,11 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-<<<<<<< Updated upstream
-=======
-## how to use GitHub Desßktop
-## how to use git revert
-
-## how to use GitHub Desktop
-## how to use git revert
->>>>>>> Stashed changes
